@@ -1,0 +1,31 @@
+Os três tipos básicos dos objetos do Git são:
+
+- blobs
+- trees
+- commits
+
+# Blobs
+
+![2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3ed26ca-e1d8-4c52-98d1-f13953e884a4/2.png)
+
+O Blob contém metadados nele.
+
+# Tree
+
+Armazena Blobs
+
+Responsável por montar toda a estrutura de onde estão os arquivos (blobs)
+
+Ela aponta onde estão os arquivos/blobs ou para outras trees
+
+![3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75da4776-10bf-48ed-8943-c93606db7137/3.png)
+
+fonte: https://git-scm.com/
+
+# Commit
+
+Ele faz meio que a união de tudo.
+
+Ele aponta para trees, para o commit realizado antes dele, para um autor e para uma mensagem
+
+É basicamente uma linha no tempo.

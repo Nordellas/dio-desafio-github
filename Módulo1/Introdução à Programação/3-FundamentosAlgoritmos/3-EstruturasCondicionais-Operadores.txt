@@ -1,0 +1,10 @@
+Dado o estado de uma pessoa ou coisa, existe uma condição para aquilo acontecer.
+
+**Condicional**:
+
+- Expressa uma condição ou suposição
+- Contem ou implica uma suposição ou hipótese
+
+# Qual a ideia de uma estrutura condicional?
+
+Dado uma condição que foi satisfeita, executo determinada operação.

@@ -1,0 +1,21 @@
+# Técnica Linear
+
+Modelo tradicional (modelo de desenvolvimento e resolução de problemas)
+
+- Não tem vínculo
+    - Estrutura hierárquica
+    - Utilizado na programação de computadores
+
+![14.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e745c840-38a4-4f8a-bc13-bcf5b707a701/14.png)
+
+# Técnica Estruturada
+
+Organização, disposição e ordem dos elementos essenciais que compõe um corpo (concreto ou abstrato)
+
+![1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/33b35e7d-dd38-48b4-a450-b0a1959e22cb/1.png)
+
+É uma técnica um pouco mais complexa, mas trás mais vantagens por proporcionar mais escolhas.
+
+# Técnica Modular
+
+Define partes independentes que são controladas por um conjunto de regras.

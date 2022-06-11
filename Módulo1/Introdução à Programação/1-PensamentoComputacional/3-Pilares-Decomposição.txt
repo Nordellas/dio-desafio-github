@@ -1,0 +1,54 @@
+“Se você tem um problema que não consegue resolver, existe um problema mais fácil que você pode resolver: encontre-o” George Poyla - professor e matemático
+
+**Este pilar** é primeiro passo da resolução de problemas dentro do conceito de pensamento.
+
+“Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto, problemas mais fáceis e gerenciáveis.”
+
+# Estratégia
+
+### Análise
+
+Processo de quebrar e determinar partes menores e gerenciáveis.
+
+A partir disso, é preciso estudar e explorar o contexto, tentando decompor em elementos constituintes do problemas, de forma a realizar um exame detalhado
+
+### Síntese
+
+Combinar os elementos recompondo o problema original 
+
+A síntese consiste em reunir elementos distintos de um único elemento dentro de um processo de reconstrução, fundindo de maneira coerente.
+
+Ordem de execução de tarefas menores:
+
+- Sequencial (dependência entre tarefas. Executadas em “fila”)
+- Paralelismo (tarefas podem ser executas concomitantemente)
+
+Como decompor?
+
+1. Identificar ou coletar dados
+2. Agregar os dados
+3. Funcionalidade
+
+# Exemplos
+
+**Cozinhar:**
+
+1. identificar os ingredientes 
+2. determinar as etapas (sequencial ou paralelo)
+3. executar cada etapa
+4. agregar os ingredientes para finalizar (recompor com coerência)
+
+**Funcionamento de uma bike:**
+
+- funcionamento do sistema
+    - identificar os componentes
+    - papel de cada componente
+    - interdependência das peças
+
+**Criar um app:**
+
+- Definição de componentes e etapas
+    - finalidade
+    - interface
+    - funcionalidades
+    - pré-requisitos

@@ -1,0 +1,9 @@
+## Definição formal de Função
+
+As funções, ou sub-rotinas, são blocos de instruções que realizam tarefas específicas.
+
+Ou seja, são trechos de códigos com objetivos específicos que pode ser chamados dentro do seu código principal. Vem da ideia de decomposição de problema.
+
+Modularização do programa traz o benefício de ter o código mais claro e conciso, além da reutilização de instruções.
+
+Uma definição formal seria: “são blocos de instruções (código), identificados por **nomes e parâmetros**.”

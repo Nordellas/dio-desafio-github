@@ -1,0 +1,7 @@
+# Como resolver o problema utilizando o pensamento computacional?
+
+Seriam eles:
+
+- identificar mecanismos
+- recursos comuns
+- detalhes mais importantes

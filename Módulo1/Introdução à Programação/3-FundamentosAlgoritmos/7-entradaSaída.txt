@@ -1,0 +1,10 @@
+Entrada: “Consiste na inserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivos, entre outros.”
+
+![28.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b84d4dd7-6800-4b1e-8a87-4c2e98deea2e/28.png)
+
+Saída: “Consiste na impressão dos dados do mundo abstrato, digital por meio de ação de alguma interface. Os formatos poder variar desde simples arquivos binários até complexas querys de banco de dados.”
+
+Existem dois tipos de saída dentro de um programa (algoritmo):
+
+- Saída por interrupção (definida pelos periféricos)
+- Saída programada (pode ser condicional ou incondicional)

@@ -1,0 +1,25 @@
+Habilidades necessárias são:
+
+- **raciocínio lógico** (é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema.)
+- **aperfeiçoamento** (é o melhoramento, ato de aperfeiçoar, aprimoramento, refinamento; a partir de uma solução, determinar pontos de melhora e refinamento)
+
+# Raciocínio lógico
+
+Raciocínio lógico tem classificações que são:
+
+1. Indução (induz algo a partir de uma observação)
+2. Dedução (a partir de leis e teorias se deduz algo)
+3. Abdução (a partir de uma conclusão, se supõe outra coisa)
+
+![0.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6ad89ec-535f-4843-9d60-79b8f1a8f44c/0.png)
+
+# Aperfeiçoamento
+
+Está relacionado ao aperfeiçoamento:
+
+- melhor uso de recursos
+    - encontrar solução eficiente
+    - otimizar processos
+- melhorar códigos e algoritmos
+    - simplificar linhas de códigos
+    - funções bem definidas

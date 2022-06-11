@@ -1,0 +1,15 @@
+# Análise sintática
+
+“Componente do sistema linguístico que interligam os constituintes da sentença, atribuindo-lhe uma estrutura”
+
+Então, é a forma que define qualquer estrutura relacionada dentro da linguagem específica. 
+
+# Análise semântica
+
+Está relacionada ao SIGNIFICADO
+
+“É o estudo do significado. Incide sobre a relação entre significados, como: palavras, frases, sinais e símbolos”
+
+## Erro semântico
+
+Não faz o que é esperado!

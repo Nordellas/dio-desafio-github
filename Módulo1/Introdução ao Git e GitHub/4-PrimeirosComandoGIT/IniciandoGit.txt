@@ -1,0 +1,9 @@
+# Primeiros comandos com Git
+
+- git init (para iniciar o resopotório no git)
+- git add (mover arquivos e dar início ao versionamento)
+- git commit (criar o commit)
+
+O comando “ls -a” mostra as pastas ocultas no terminal
+
+# Adicionando um arquivo

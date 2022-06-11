@@ -1,0 +1,26 @@
+# O que será aprendido?
+
+- Mudar de pastas
+- Listar as pastas
+- Criar pastas/arquivos
+- Deletar pastas/arquivos
+
+## Windows
+
+- cd (usado para navegar entre as pastas. Ex.: cd Windows)
+- dir (diretórios que existem dentro do pc)
+- mkdir (utilizado para criar uma pasta nova)
+- del / rmdir (del é para deletar arquivos e o rmdir é para deletar repositórios)
+- echo (printa no termial uma frase ou palavra que você quiser)
+- > (redirecionador de fluxo para colocar em algum arquivo)
+- del (para deletar  arquivos)
+- seta para cima (navega pelos últimos comandos feitos)
+
+Utilize a tecla TAB para autocompletar o que for no CMD
+
+## Unix
+
+- cd
+- Is
+- mkdir
+- rm -rf

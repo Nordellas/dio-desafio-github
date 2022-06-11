@@ -1,0 +1,5 @@
+Definição formal de instrução: Instruções são linguagens de palavras-chave (vocabulário) de uma determinada de programação que tem por finalidade comandar um computador que irá tratar os dados.
+
+Ou seja, instruções vão determinar as ações que irão processar e tratar esses dados.
+
+As instruções primitivas, dentro de cada linguagem de programação, possuem uma sintaxe particular, e isto está relacionado aos operadores.

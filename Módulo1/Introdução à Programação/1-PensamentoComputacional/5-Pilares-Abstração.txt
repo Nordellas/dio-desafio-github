@@ -1,0 +1,9 @@
+**Generalização**, na lógica, é a operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenômenos similares. Ou seja, determinamos classes e objetos para essas classes
+
+Como classificar os dados?
+
+- características
+- pontos essenciais
+- generalizar em detrimento do detalhe
+
+A ideia de abstrair ou generalizar um problema é torná-lo reutilizável. Fazendo assim, utilizar para cenários distintos mas com similaridades.

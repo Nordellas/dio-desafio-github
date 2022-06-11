@@ -1,0 +1,3 @@
+[Git (git-scm.com)](https://git-scm.com/) onde instalar o GIT
+
+Quando abrir a janela de instalação, olhar se o “GIT BASH HERE” e o “GIT GUI HERE” estão selecionados

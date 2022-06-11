@@ -1,0 +1,13 @@
+**Vetor** é uma sequência de tipos de dados.
+
+## Definição formal para vetor
+
+“Um vetor é caracterizado por uma variável dimensionada com tamanho pré-fixado.”
+
+Ou seja, vetor é uma variável que possui uma sequência que receberá diversos valores.”
+
+## Definição formal para matriz
+
+“Matriz é uma tabela organizada em linhas e colunas no formato m x n, onde **M** representa o número de linhas (horizontal) e **N** o número de colunas (vertical).”
+
+Exemplificando, eles servem para uma redução de linhas no código, tornando o código mais limpo e mais legível.

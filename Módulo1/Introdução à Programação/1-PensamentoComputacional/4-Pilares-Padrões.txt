@@ -1,0 +1,35 @@
+# Reconhecimento de padrões
+
+- modelo de base
+- estrutura invariante
+- repetição
+
+As similaridades e diferenças ajudam nesse reconhecimento.
+
+Por que determinar padrões?
+
+- Para generalizar, com objetivo de obter resolução para problemas diferentes.
+- Categorias
+    - dependem do domínio
+    - tipo de media
+- Classes
+
+Os computadores reconhecem os padrões pela **comparação**.
+
+Como simular esse comportamento?
+
+- representação de atributos
+- aprendizado - conceito associado ao objeto
+- armazenar dados
+
+# Resumo
+
+A detecção de padrão vem da ideia de extrair características a fim de classificar seus dados.
+
+# Aplicações
+
+- classificação de dados
+- reconhecimento de imagem
+- reconhecimento de fala
+- análise de cenas
+- classificação de documentos

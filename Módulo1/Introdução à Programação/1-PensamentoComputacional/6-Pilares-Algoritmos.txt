@@ -1,0 +1,41 @@
+O objetivo de um computador é: receber, manipular, armazenar e processar dados.
+
+Programas são constituídos por instruções, e essas instruções possuem o passo a passo do que será realizado.
+
+![3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c7eaa05a-dc8b-4192-b6b0-4e97e4e73a10/3.png)
+
+# Desenvolvimento do Programa
+
+Primeiro é preciso **analisar**, entender e estudar quais são os dados de entrada e saída.
+
+O **algoritmo** descreve o problema por meio de ferramentas narrativas, fluxograma ou pseudocódigo.
+
+A **codificação** é onde o algoritmo é codificado de acordo com a linguagem de programação escolhida.
+
+Ou seja:
+
+- sequência de passos com objetivo definido
+- execução de tarefas específicas
+- conjunto de operações que resultam em uma sucessão finta de ações
+
+# Como construir um algoritmo?
+
+1. Ter a compreensão do problema (quais são os pontos mais importantes do problema)
+2. Definição dados de entrada (dados fornecidos de acordo com o cenário/contexto)
+3. Definir processamento (quais serão as operações realizadas dentro do algoritmo para retornar informações de saída)
+4. Definir dados de saída (ocorre após o processamento)
+5. Utilizar método de construção/testes e diagnóstico (construção e refinamento do algoritmo)
+
+# Construção de algoritmos
+
+## Narrativa
+
+É a mais simples. Utilização da linguagem natural, mas pode ser ambígua e ter diversas interpretações de acordo de como foi escrito. Sem conceitos novos.
+
+## Fluxograma
+
+Estrutura gráfica com símbolos pré definidos que definem qual é o tipo de operação realizada. Precisa de conhecimento prévio.
+
+## Pseudocódigo
+
+São regras bem definidas e com passos a passos bem executados. Está mais próximo a codificação.

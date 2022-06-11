@@ -1,0 +1,14 @@
+# Definição formal de **lógica**
+
+“Problema é uma questão que foge a uma determinada regra, ou melhor é um desvio de percurso, o qual impede de atingir um objetivo com eficiência e eficácia.”
+
+“Parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hipótese, inferência, etc.) e das operações intelectuais que visam à determinação do que é verdadeiro ou não.”
+
+Ou seja, é uma forma de pensamento estruturada a determinar o que é verdadeiro ou não dentro de um contexto.
+
+# Definição mais computacional
+
+“Organização e planejamento das instruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa.”
+
+Por que entender a lógica em programação?
+Segundo Steve Jobs “todos neste país deveriam aprender a como programar um computador porque isto ensinaria a vocês como pensar.”

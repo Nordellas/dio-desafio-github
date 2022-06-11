@@ -1,0 +1,49 @@
+# Objetivo Geral
+
+Apresentar os conceitos que caracterizam o pensamento computacional, permitindo que o Dev entenda o que significado pensar computacional.
+
+*“O pensamento computacional é o processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador.”* Aho, 2011; Lee, 2016
+
+- Sistemático e eficiente
+- Formulação e resolução de problemas
+- Tanto humanos como máquinas sejam capazes de resolver.
+
+Pensamento computacional não é uma disciplina acadêmica, mas sim uma habilidade generalista. Um bom exemplo disso é a própria matemática.
+
+É baseado em quatro pilares:
+
+- Decomposição
+- Reconhecimento de padrões
+- Abstração
+- Design de algoritmos
+
+# Decomposição
+
+Dividir um problema complexo em subproblemas
+
+Exemplo disso seria uma receita de bolo.
+
+Na computação, tem a utilização da ordenação de ordem binária que torna a resolução do problema mais eficiente.
+
+# Reconhecimento de padrões
+
+Identifica padrões ou tendências dentro de contexto similares ou distintos.
+
+São identificados em similaridades e diferenças entre os problemas.
+
+# Abstração
+
+Serve para extrapolar o conceito do problema para uma forma generalista.
+
+As classes são abstrações de um modelo de entidade de software.
+
+# Design de algoritmos
+
+Automatizar; Definir passo a passo a solução do problema.
+
+# Sobre esses quatro pilares
+
+- será um processo contínuo
+- é para definir uma solução
+- testar soluções
+- e, então, será um aperfeiçoamento da solução encontrada

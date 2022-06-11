@@ -1,0 +1,21 @@
+Forma de estabelecer uma conexão segura e encriptada entre duas máquinas.
+
+[https://github.com/settings/keys](https://github.com/settings/keys)
+
+## Sequencia de comandos para gerar a chaves
+
+- ssh-keygen -t ed25519 -C (seu email)
+- depois coloca uma senha
+
+- cd /c/Users/name/.ssh/
+- ls
+- cat id_( ).pub
+
+- eval $(ssh-agent -s)
+- ssh-add id_ed25519
+
+# Token de acesso pessoal
+
+[https://github.com/settings/tokens](https://github.com/settings/tokens)
+
+Nesse caso, ao invés de ir em SSH, ir em HTTPS

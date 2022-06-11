@@ -1,0 +1,12 @@
+Uma estrutura de repetição irá executar um determinado trecho de um programa a partir de certos parâmetros que serão estabelecidos dentro dessa estrutura de repetição. Porém, precisa ter uma condição de parada, senão teria um looping infinito.
+
+**Condição de parada:**
+
+- Número de repetições pré-fixada
+- Condição a ser satisfeita
+
+# Qual a vantagem de ter uma estrutura de repetição?
+
+- Redução de linhas
+- Compreensão facilitada
+- Redução de erro

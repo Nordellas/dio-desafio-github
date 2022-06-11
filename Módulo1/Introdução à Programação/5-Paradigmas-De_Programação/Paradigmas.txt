@@ -1,0 +1,47 @@
+“É a forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma utilizando linguagem de programação.”
+
+Então, possui regras para resolução de problemas e está limitador por contexto específico.
+
+![2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c1dc9ff-6bf1-4303-ad95-d49ed5e0062e/2.png)
+
+# Paradigma Estruturado
+
+Conceitos:
+
+- Sequência
+- Decisão
+- Interação
+
+Instruções executadas em sequência.
+
+Utilização:
+
+- Problemas simples e diretos
+- Aprender a programar (mais difícil de aprender)
+
+Exemplo de linguagem: C
+
+# Orientação à Objeto
+
+Paradigma de programação baseado na utilização de objetos e suas interações. 
+
+Análogo ao mundo real
+
+![3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ba5980f-0490-497c-9d66-268862221e57/3.png)
+
+![4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/08426d2b-5491-4d69-a657-358c4381fe1b/4.png)
+
+![5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25fb99db-7bb4-443b-8111-1f3fb06c8243/5.png)
+
+![6.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34fe2a8c-87cd-4f4c-8913-824fe5882d5b/6.png)
+
+![7.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e766cdf3-de47-4e82-ad1d-5acc600d3b63/7.png)
+
+## Pilares de Orientação a Objeto
+
+- Herança
+- Encapsulamento
+- Polimorfismo
+- Abstração
+
+**HERANÇA:**

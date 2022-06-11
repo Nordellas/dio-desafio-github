@@ -1,0 +1,34 @@
+# Qual a função do computador?
+
+É processar as informações que são passadas para ele. As informações são compostas por dois tipos de conteúdos: **DADOS** e **INSTRUÇÕES**.
+
+*Dados*: objetos de manipulação e processamento de um computador.
+
+*Instruções*: Normativas/Diretivas utilizadas pelo computador para executar determinadas operações que irão processar aqueles dados.
+
+# Tipos de DADOS
+
+## Numérico
+
+É o tipo mais comum. Nesse tipo existem algumas classes: INTEIROS, REAIS e CARACTERES.
+
+## Lógico
+
+Está atrelado a lógica BOOLEANA, que são o verdadeiro (1) e o falso (0).
+
+Quando se quer utilizar esses tipos de dados em um programa? **Através de variáveis**!
+
+# O que é uma variável?
+
+É um tipo de estrutura mutável, inconstante. Pode ser sobre escrita e pode receber mais de um valor, modificando seu valor.
+
+Variável pode assumir qualquer um dos valores de um determinado conjunto de valores. Contudo, está restrita ao seu tipo de valores (numérico, string,…).
+
+# Regras de uma variável
+
+- Atribuição de um ou mais caracteres
+- Primeira letra - não número
+- Sem espaços em branco
+- Vetado
+    - Utilização de palavras reservadas
+- Caracteres e números
